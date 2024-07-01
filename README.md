@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm @RawkFX</h1>
-<h3 align="center">👀 With more than 2 years of experience in the field and with 4 years of studies in the field of informatics, successfully completed, I work as a Jr. FullStack Web Developer as my main full time job.</h3>
+<h3 align="center">👀 With more than 2 years of experience in the field and with 6 years of studies in the field of informatics, successfully completed, I work as a Software Developer as my main full time job.</h3>
 <p align="left">
     <img src="https://komarev.com/ghpvc/?username=rawkfx&label=Profile%20views&color=0e75b6&style=flat" alt="rawkfx" />
 </p>
