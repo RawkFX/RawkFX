@@ -4,8 +4,8 @@
 <details>
   <summary><h2> <img align="center" src="https://github.com/RawkFX/RawkFX/blob/main/icons/stats.gif" width="32"/> Stats</h2></summary>
   <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RawkFX&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="rawkfx" /><br/>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=RawkFX&theme=tokyonight&hide_border=false" alt="rawkfx" /><br/>
+    <a href="https://app.daily.dev/known"><img src="https://api.daily.dev/devcards/v2/12X3d75FkClcevtrN7onA.png?type=default&r=rwy" width="356" alt="Răzvan's Dev Card"/></a><br/><br/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RawkFX&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="rawkfx" />
   </div>
 </details>
 <p align="left">
