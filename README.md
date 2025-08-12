@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm @RawkFX</h1>
-<h3 align="center">👀 With more than 2 years of experience in the field and with 6 years of studies in the field of informatics, successfully completed, I work as a Software Developer as my main full time job.</h3>
+<h3 align="center">👀 With more than 3 years of experience in the field and with 6 years of studies in the field of informatics, successfully completed, I work as a Software Engineer as my main full time job.</h3>
 
 <details>
   <summary><h2> <img align="center" src="https://github.com/RawkFX/RawkFX/blob/main/icons/stats.gif" width="32"/> Stats</h2></summary>
@@ -51,6 +51,9 @@
     <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
         <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40" />
     </a>
+    <a href="https://nestjs.com/" target="_blank" rel="noreferrer">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg" alt="nestjs" width="40" height="40" />
+    </a>
     <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40" />
     </a>
@@ -62,6 +65,9 @@
     </a>
     <a href="https://laravel.com/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/laravel/laravel-original.svg" alt="tailwind" width="40" height="40" />
+    </a>
+    <a href="https://www.codeigniter.com/" target="_blank" rel="noreferrer">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/codeigniter/codeigniter-plain-wordmark.svg" alt="codeigniter" width="40" height="40" />
     </a>
     <a href="https://spring.io/" target="_blank" rel="noreferrer">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original-wordmark.svg" alt="springboot" width="40" height="40" />
@@ -78,6 +84,9 @@
     <a href="https://hoppscotch.io/" target="_blank" rel="noreferrer">
         <img src="https://i.imgur.com/NPIso1G.png" alt="java" width="40" height="40" />
     </a>
+    <a href="http://jetbrains.com/" target="_blank" rel="noreferrer">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jetbrains/jetbrains-original.svg" alt="jetbrains" width="40" height="40" />
+    </a>
 </p>
 <h3 align="left">Databases:</h3>
 <p>
@@ -87,11 +96,17 @@
     <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40" />
     </a>
+    <a href="https://www.oracle.com/" target="_blank" rel="noreferrer">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg" alt="oracle sql" width="40" height="40" />
+    </a>
 </p>
 <h3 align="left">ORM's:</h3>
 <p>
     <a href="https://www.prisma.io/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/prisma/prisma-original.svg" alt="mysql" width="40" height="40" />
+    </a>
+    <a href="https://hibernate.org/orm/" target="_blank" rel="noreferrer">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/hibernate/hibernate-original.svg" alt="hibernate orm" width="40" height="40" />
     </a>
 </p>
 <h3 align="left">Other tools:</h3>
