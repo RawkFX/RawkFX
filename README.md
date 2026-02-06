@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm @RawkFX</h1>
-<h3 align="center">👀 With more than 3 years of experience in the field and with 6 years of studies in the field of informatics, successfully completed, I work as a Software Engineer as my main full time job.</h3>
+<h3 align="center">👀 With more than 4 years of experience in the field and with 6 years of studies in the field of informatics, successfully completed, I work as a Software Engineer as my main full time job.</h3>
 
 <details>
   <summary><h2> <img align="center" src="https://github.com/RawkFX/RawkFX/blob/main/icons/stats.gif" width="32"/> Stats</h2></summary>
@@ -138,6 +138,9 @@
     <a href="https://gitlab.com/" target="_blank" rel="noreferrer">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gitlab/gitlab-plain-wordmark.svg" alt="gitlab" width="40" height="40" />
     </a>
+    <a href="https://docker.com/" target="_blank" rel="noreferrer">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-plain-wordmark.svg" alt="docker" width="40" height="40" />
+    </a>
 </p>
 <h3 align="left">Operating systems:</h3>
 <p>
@@ -146,6 +149,9 @@
     </a>
     <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40" />
+    </a>
+    <a href="https://apple.com/" target="_blank" rel="noreferrer">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apple/apple-original.svg" alt="apple" width="40" height="40" />
     </a>
 </p>
 <!---
