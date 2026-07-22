@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm @RawkFX</h1>
 <h3 align="center">👀 With more than 4 years of experience in the field and with 6 years of studies in the field of informatics, successfully completed, I work as a Software Engineer as my main full time job.</h3>
 
+![snake game](https://raw.githubusercontent.com/RawkFX/RawkFX/output/snake.svg)
+
 <details>
   <summary><h2> <img align="center" src="https://github.com/RawkFX/RawkFX/blob/main/icons/stats.gif" width="32"/> Stats</h2></summary>
   <div align="center">
@@ -155,4 +157,3 @@
     </a>
 </p>
 
-![snake](https://raw.githubusercontent.com/RawkFX/RawkFX/output/snake.svg)
