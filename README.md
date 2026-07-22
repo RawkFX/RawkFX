@@ -154,12 +154,5 @@
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apple/apple-original.svg" alt="apple" width="40" height="40" />
     </a>
 </p>
-<!---
 
-- 👋 Hi, I’m @RawkFX
-- 👀 With more than 1 year of experience in the field and with 4 years of studies in the field of informatics, successfully completed, I work as a Jr. FullStack Web Developer as my main full time job.
-
-
-RawkFX/RawkFX is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+![snake](https://raw.githubusercontent.com/RawkFX/RawkFX/output/snake.svg)
