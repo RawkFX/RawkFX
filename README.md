@@ -23,14 +23,8 @@
     <a href="https://dev.to/rawkfx" target="blank">
         <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="rawkfx" height="30" width="40" />
     </a>
-    <a href="https://twitter.com/razvanrzv_" target="blank">
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="razvanrzv_" height="30" width="40" />
-    </a>
     <a href="https://linkedin.com/in/răzvan-pîrvan-3316b4150" target="blank">
         <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="răzvan-pîrvan-3316b4150" height="30" width="40" />
-    </a>
-    <a href="https://fb.com/razvanpbk" target="blank">
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="razvanpbk" height="30" width="40" />
     </a>
 </p>
 <h3 align="left">Dev Languages:</h3>
@@ -77,6 +71,9 @@
 </p>
 <h3 align="left">Dev Tools:</h3>
 <p>
+    <a href="https://vite.dev/" target="_blank" rel="noreferrer">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg" alt="vitejs" width="40" height="40" />
+    </a>
     <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
         <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" />
     </a>
@@ -121,9 +118,6 @@
     </a>
     <a href="https://www.chartjs.org" target="_blank" rel="noreferrer">
         <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40" />
-    </a>
-    <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40" />
     </a>
     <a href="https://redux.js.org/" target="_blank" rel="noreferrer">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redux/redux-original.svg" alt="redux" width="40" height="40" />
