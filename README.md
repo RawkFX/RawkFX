@@ -10,14 +10,6 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RawkFX&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="rawkfx" />
   </div>
 </details>
-<p align="left">
-    <img src="https://komarev.com/ghpvc/?username=rawkfx&label=Profile%20views&color=0e75b6&style=flat" alt="rawkfx" />
-</p>
-<p align="left">
-    <a href="https://twitter.com/razvanrzv_" target="blank">
-        <img src="https://img.shields.io/twitter/follow/razvanrzv_?logo=twitter&style=for-the-badge" alt="razvanrzv_" />
-    </a>
-</p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
     <a href="https://dev.to/rawkfx" target="blank">
